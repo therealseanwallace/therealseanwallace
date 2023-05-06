@@ -1,6 +1,8 @@
-### Hi there 👋
+### 👋 About me
 
-I'm Sean, a 40 year-old career-changer looking for my first job in software development.
+Hi! I'm Sean, a 40 year-old career-changer looking for my first job in software development. Previously, I have been working in Bid/Grant Writing for 7 years but I'm ready for a change of pace. I've also done some copywriting and marketing contracts for a couple of years but I didn't see that as my "thing" long term.
+
+So here we are.
 
 ## 🛠️ I’m currently working on
 
