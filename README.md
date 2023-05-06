@@ -50,5 +50,5 @@ I'd *really* like to get a dev job sometime soon so if anybody has a lead or jus
 
 ## 📫 How to reach me: 
 
-Email: [wallace.sean111@gmail.com](mailto:wallace.sean111@gmail.com)
+Email: [wallace.sean111@gmail.com](mailto:wallace.sean111@gmail.com) or
 [LinkedIn](https://www.linkedin.com/in/sean-wallace-338a53198/)
