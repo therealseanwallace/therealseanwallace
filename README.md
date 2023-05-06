@@ -46,7 +46,7 @@ Thes app displays UK Education tenders sourced from official sources and updated
 
 Meeting other devs for networking. 
 
-I'd *really* like to get a dev job sometime soon so if anybody has a lead or just wants to talk shop with no pressure, please contact me using the details below: 
+I'd *really* like to get a remote dev job sometime soon so if anybody has a lead or just wants to talk shop with no pressure, please contact me using the details below: 
 
 ## 📫 How to reach me: 
 
