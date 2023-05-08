@@ -30,7 +30,7 @@ My website [Just Education Tenders](https://justeducationtenders.co.uk). It's al
 
 TLDR:
 
-Thes app displays UK Education tenders sourced from official sources and updated in near-real time.
+The app displays UK Education tenders sourced from official sources and updated in near-real time.
 
 - This full stack app comprises three main components
 
