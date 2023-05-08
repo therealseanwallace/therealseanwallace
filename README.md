@@ -8,7 +8,7 @@ So here we are.
 
 I wanted to push myself to make something that looked awesome, so I am doing one of the Frontend Mentor challenges, Audiophile. 
 
-Here's my [repo](https://github.com/therealseanwallace/audiophilefrontend) and here's the [Next.JS app](https://audiophilefrontend.vercel.app/) hosted on Vercel. The current production version might be a little outdated - I made a bunch of project but that pesky linter is stopping it from building :D More to come very soon...
+Here's my [repo](https://github.com/therealseanwallace/audiophilefrontend) and here's the [Next.JS app](https://audiophilefrontend.vercel.app/) hosted on Vercel. The current production version might be a little outdated - I made a bunch of changes but that pesky linter is stopping it from building :D More to come very soon...
 
 I thought about making it a fullstack app but my main objective here was to try to get better at css and Next.JS. And I've got other fullstack ideas I want to do, so this one is just here to look pretty 😍
 
