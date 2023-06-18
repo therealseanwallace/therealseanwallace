@@ -6,17 +6,11 @@ So here we are.
 
 ## 🛠️ I’m currently working on
 
-I wanted to push myself to make something that looked awesome, so I am doing one of the Frontend Mentor challenges, Audiophile. 
-
-Here's my [repo](https://github.com/therealseanwallace/audiophilefrontend) and here's the [Next.JS app](https://audiophilefrontend.vercel.app/) hosted on Vercel. The current production version might be a little outdated - I made a bunch of changes but that pesky linter is stopping it from building :D More to come very soon...
-
-I thought about making it a fullstack app but my main objective here was to try to get better at css and Next.JS. And I've got other fullstack ideas I want to do, so this one is just here to look pretty 😍
+A "friend manager" portfolio app, because I wanted to practice working more with CRUD and RESTful APIs. I'm making it using Next.JS. More to come soon...
 
 ## 🌱 I’m currently learning
 
 Recently I've been focusing on learning Next.JS and its different ways of building/serving sites e.g. static vs. dynamic routes. I am LOVING Next.JS' dynamic routing and used it to make my [Audiophile project](https://github.com/therealseanwallace/audiophilefrontend).
-
-After this one, I am going to dive back into another fullstack project.
 
 Longer term, I want to learn:
 
