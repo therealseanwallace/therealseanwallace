@@ -6,7 +6,7 @@ So here we are.
 
 ## 🛠️ I’m currently working on
 
-A "friend manager" portfolio app, because I wanted to practice working more with CRUD and RESTful APIs. I'm making it using Next.JS. More to come soon...
+A Reddit clone portfolio app. I'm making it using Next.JS. More to come soon...
 
 ## 🌱 I’m currently learning
 
