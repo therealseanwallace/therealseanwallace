@@ -1,6 +1,6 @@
 ### 👋 About me
 
-Hi! I'm Sean, a fullstack developer working mostly in JS/TS. I'm currently working for a startup working in the legal space.
+Hi! I'm Sean, a fullstack developer working mostly in JS/TS. I'm currently working for a legaltech startup.
 
 ## 🙏 I’m looking for help with
 
